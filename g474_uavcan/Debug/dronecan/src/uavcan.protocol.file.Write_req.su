@@ -1,0 +1,6 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.file.Path.h:49:6:_uavcan_protocol_file_Path_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.file.Path.h:96:6:_uavcan_protocol_file_Path_decode	40	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.file.Write_req.h:65:6:_uavcan_protocol_file_WriteRequest_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.file.Write_req.h:127:6:_uavcan_protocol_file_WriteRequest_decode	40	static
+../dronecan/src/uavcan.protocol.file.Write_req.c:14:10:uavcan_protocol_file_WriteRequest_encode	24	static
+../dronecan/src/uavcan.protocol.file.Write_req.c:34:6:uavcan_protocol_file_WriteRequest_decode	24	static

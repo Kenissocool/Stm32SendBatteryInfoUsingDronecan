@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.protocol.Stats.h:99:6:_dronecan_protocol_Stats_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.protocol.Stats.h:223:6:_dronecan_protocol_Stats_decode	1
+../dronecan/src/dronecan.protocol.Stats.c:12:10:dronecan_protocol_Stats_encode	1
+../dronecan/src/dronecan.protocol.Stats.c:32:6:dronecan_protocol_Stats_decode	2

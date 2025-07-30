@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.dynamic_node_id.server.Discovery.h:63:6:_uavcan_protocol_dynamic_node_id_server_Discovery_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.dynamic_node_id.server.Discovery.h:119:6:_uavcan_protocol_dynamic_node_id_server_Discovery_decode	40	static
+../dronecan/src/uavcan.protocol.dynamic_node_id.server.Discovery.c:12:10:uavcan_protocol_dynamic_node_id_server_Discovery_encode	24	static
+../dronecan/src/uavcan.protocol.dynamic_node_id.server.Discovery.c:32:6:uavcan_protocol_dynamic_node_id_server_Discovery_decode	24	static

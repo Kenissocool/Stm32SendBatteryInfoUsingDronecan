@@ -1,0 +1,15 @@
+../Core/Src/main.c:83:6:HAL_FDCAN_RxFifo0Callback	24	static
+../Core/Src/main.c:110:15:my_strnlen	24	static
+../Core/Src/main.c:116:13:handle_GetNodeInfo	824	static
+../Core/Src/main.c:153:6:should_accept	24	static
+../Core/Src/main.c:163:6:onTransferReceived	16	static
+../Core/Src/main.c:177:13:send_BatteryInfo	168	static
+../Core/Src/main.c:259:13:send_NodeStatus	48	static
+../Core/Src/main.c:287:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:306:5:main	72	static
+../Core/Src/main.c:461:6:SystemClock_Config	88	static
+../Core/Src/main.c:508:13:MX_FDCAN1_Init	8	static
+../Core/Src/main.c:551:13:MX_TIM2_Init	40	static
+../Core/Src/main.c:596:13:MX_TIM3_Init	40	static
+../Core/Src/main.c:641:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:663:6:Error_Handler	4	static,ignoring_inline_asm

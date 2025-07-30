@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.actuator.Status.h:77:6:_uavcan_equipment_actuator_Status_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.actuator.Status.h:153:6:_uavcan_equipment_actuator_Status_decode	1
+../dronecan/src/uavcan.equipment.actuator.Status.c:12:10:uavcan_equipment_actuator_Status_encode	1
+../dronecan/src/uavcan.equipment.actuator.Status.c:32:6:uavcan_equipment_actuator_Status_decode	2

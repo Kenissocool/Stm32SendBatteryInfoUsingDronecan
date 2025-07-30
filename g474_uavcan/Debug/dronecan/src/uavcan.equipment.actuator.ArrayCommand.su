@@ -1,0 +1,6 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.actuator.Command.h:65:6:_uavcan_equipment_actuator_Command_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.actuator.Command.h:111:6:_uavcan_equipment_actuator_Command_decode	40	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.actuator.ArrayCommand.h:57:6:_uavcan_equipment_actuator_ArrayCommand_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.actuator.ArrayCommand.h:101:6:_uavcan_equipment_actuator_ArrayCommand_decode	48	static
+../dronecan/src/uavcan.equipment.actuator.ArrayCommand.c:12:10:uavcan_equipment_actuator_ArrayCommand_encode	24	static
+../dronecan/src/uavcan.equipment.actuator.ArrayCommand.c:32:6:uavcan_equipment_actuator_ArrayCommand_decode	24	static

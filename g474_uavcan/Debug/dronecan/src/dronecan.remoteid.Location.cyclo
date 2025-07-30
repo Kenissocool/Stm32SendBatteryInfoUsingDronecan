@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.remoteid.Location.h:213:6:_dronecan_remoteid_Location_encode	2
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.remoteid.Location.h:398:6:_dronecan_remoteid_Location_decode	3
+../dronecan/src/dronecan.remoteid.Location.c:12:10:dronecan_remoteid_Location_encode	1
+../dronecan/src/dronecan.remoteid.Location.c:32:6:dronecan_remoteid_Location_decode	2

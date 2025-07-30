@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.CANIfaceStats.h:53:6:_uavcan_protocol_CANIfaceStats_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.CANIfaceStats.h:96:6:_uavcan_protocol_CANIfaceStats_decode	1
+../dronecan/src/uavcan.protocol.CANIfaceStats.c:12:10:uavcan_protocol_CANIfaceStats_encode	1
+../dronecan/src/uavcan.protocol.CANIfaceStats.c:32:6:uavcan_protocol_CANIfaceStats_decode	2

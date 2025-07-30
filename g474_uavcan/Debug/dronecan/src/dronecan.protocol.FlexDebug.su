@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.protocol.FlexDebug.h:67:6:_dronecan_protocol_FlexDebug_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.protocol.FlexDebug.h:123:6:_dronecan_protocol_FlexDebug_decode	40	static
+../dronecan/src/dronecan.protocol.FlexDebug.c:12:10:dronecan_protocol_FlexDebug_encode	24	static
+../dronecan/src/dronecan.protocol.FlexDebug.c:32:6:dronecan_protocol_FlexDebug_decode	24	static

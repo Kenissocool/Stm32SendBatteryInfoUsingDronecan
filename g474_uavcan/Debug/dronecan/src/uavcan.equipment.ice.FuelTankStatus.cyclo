@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.ice.FuelTankStatus.h:73:6:_uavcan_equipment_ice_FuelTankStatus_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.ice.FuelTankStatus.h:143:6:_uavcan_equipment_ice_FuelTankStatus_decode	1
+../dronecan/src/uavcan.equipment.ice.FuelTankStatus.c:12:10:uavcan_equipment_ice_FuelTankStatus_encode	1
+../dronecan/src/uavcan.equipment.ice.FuelTankStatus.c:32:6:uavcan_equipment_ice_FuelTankStatus_decode	2

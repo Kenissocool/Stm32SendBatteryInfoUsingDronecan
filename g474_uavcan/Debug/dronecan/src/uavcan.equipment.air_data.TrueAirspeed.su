@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.air_data.TrueAirspeed.h:59:6:_uavcan_equipment_air_data_TrueAirspeed_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.air_data.TrueAirspeed.h:99:6:_uavcan_equipment_air_data_TrueAirspeed_decode	40	static
+../dronecan/src/uavcan.equipment.air_data.TrueAirspeed.c:12:10:uavcan_equipment_air_data_TrueAirspeed_encode	24	static
+../dronecan/src/uavcan.equipment.air_data.TrueAirspeed.c:32:6:uavcan_equipment_air_data_TrueAirspeed_decode	24	static

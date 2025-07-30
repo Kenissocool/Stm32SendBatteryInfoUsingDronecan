@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.remoteid.ArmStatus.h:65:6:_dronecan_remoteid_ArmStatus_encode	3
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.remoteid.ArmStatus.h:121:6:_dronecan_remoteid_ArmStatus_decode	4
+../dronecan/src/dronecan.remoteid.ArmStatus.c:12:10:dronecan_remoteid_ArmStatus_encode	1
+../dronecan/src/dronecan.remoteid.ArmStatus.c:32:6:dronecan_remoteid_ArmStatus_decode	2

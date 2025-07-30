@@ -1,0 +1,6 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.DataTypeKind.h:51:6:_uavcan_protocol_DataTypeKind_encode	24	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.DataTypeKind.h:76:6:_uavcan_protocol_DataTypeKind_decode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.GetDataTypeInfo_res.h:83:6:_uavcan_protocol_GetDataTypeInfoResponse_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.GetDataTypeInfo_res.h:163:6:_uavcan_protocol_GetDataTypeInfoResponse_decode	40	static
+../dronecan/src/uavcan.protocol.GetDataTypeInfo_res.c:12:10:uavcan_protocol_GetDataTypeInfoResponse_encode	24	static
+../dronecan/src/uavcan.protocol.GetDataTypeInfo_res.c:32:6:uavcan_protocol_GetDataTypeInfoResponse_decode	24	static

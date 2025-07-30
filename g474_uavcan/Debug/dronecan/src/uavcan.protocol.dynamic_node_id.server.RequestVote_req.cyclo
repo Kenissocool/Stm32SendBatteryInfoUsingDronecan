@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.dynamic_node_id.server.RequestVote_req.h:63:6:_uavcan_protocol_dynamic_node_id_server_RequestVoteRequest_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.dynamic_node_id.server.RequestVote_req.h:106:6:_uavcan_protocol_dynamic_node_id_server_RequestVoteRequest_decode	1
+../dronecan/src/uavcan.protocol.dynamic_node_id.server.RequestVote_req.c:14:10:uavcan_protocol_dynamic_node_id_server_RequestVoteRequest_encode	1
+../dronecan/src/uavcan.protocol.dynamic_node_id.server.RequestVote_req.c:34:6:uavcan_protocol_dynamic_node_id_server_RequestVoteRequest_decode	2

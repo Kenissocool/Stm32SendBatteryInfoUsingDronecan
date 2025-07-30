@@ -1,0 +1,6 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.Protocol.h:55:6:_uavcan_tunnel_Protocol_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.Protocol.h:80:6:_uavcan_tunnel_Protocol_decode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.Broadcast.h:65:6:_uavcan_tunnel_Broadcast_encode	3
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.Broadcast.h:127:6:_uavcan_tunnel_Broadcast_decode	5
+../dronecan/src/uavcan.tunnel.Broadcast.c:12:10:uavcan_tunnel_Broadcast_encode	1
+../dronecan/src/uavcan.tunnel.Broadcast.c:32:6:uavcan_tunnel_Broadcast_decode	2

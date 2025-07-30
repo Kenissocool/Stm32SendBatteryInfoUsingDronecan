@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.ice.reciprocating.CylinderStatus.h:61:6:_uavcan_equipment_ice_reciprocating_CylinderStatus_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.ice.reciprocating.CylinderStatus.h:137:6:_uavcan_equipment_ice_reciprocating_CylinderStatus_decode	1
+../dronecan/src/uavcan.equipment.ice.reciprocating.CylinderStatus.c:12:10:uavcan_equipment_ice_reciprocating_CylinderStatus_encode	1
+../dronecan/src/uavcan.equipment.ice.reciprocating.CylinderStatus.c:32:6:uavcan_equipment_ice_reciprocating_CylinderStatus_decode	2

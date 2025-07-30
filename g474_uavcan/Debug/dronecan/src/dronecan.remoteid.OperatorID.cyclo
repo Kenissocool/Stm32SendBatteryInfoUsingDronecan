@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.remoteid.OperatorID.h:67:6:_dronecan_remoteid_OperatorID_encode	4
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.remoteid.OperatorID.h:148:6:_dronecan_remoteid_OperatorID_decode	6
+../dronecan/src/dronecan.remoteid.OperatorID.c:12:10:dronecan_remoteid_OperatorID_encode	1
+../dronecan/src/dronecan.remoteid.OperatorID.c:32:6:dronecan_remoteid_OperatorID_decode	2

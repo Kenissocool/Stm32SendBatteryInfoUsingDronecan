@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.remoteid.SecureCommand_res.h:79:6:_dronecan_remoteid_SecureCommandResponse_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.remoteid.SecureCommand_res.h:153:6:_dronecan_remoteid_SecureCommandResponse_decode	40	static
+../dronecan/src/dronecan.remoteid.SecureCommand_res.c:12:10:dronecan_remoteid_SecureCommandResponse_encode	24	static
+../dronecan/src/dronecan.remoteid.SecureCommand_res.c:32:6:dronecan_remoteid_SecureCommandResponse_decode	24	static

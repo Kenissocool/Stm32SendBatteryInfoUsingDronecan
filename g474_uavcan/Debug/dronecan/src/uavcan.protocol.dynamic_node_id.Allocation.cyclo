@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.dynamic_node_id.Allocation.h:79:6:_uavcan_protocol_dynamic_node_id_Allocation_encode	3
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.dynamic_node_id.Allocation.h:144:6:_uavcan_protocol_dynamic_node_id_Allocation_decode	4
+../dronecan/src/uavcan.protocol.dynamic_node_id.Allocation.c:12:10:uavcan_protocol_dynamic_node_id_Allocation_encode	1
+../dronecan/src/uavcan.protocol.dynamic_node_id.Allocation.c:32:6:uavcan_protocol_dynamic_node_id_Allocation_decode	2

@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.power.CircuitStatus.h:77:6:_uavcan_equipment_power_CircuitStatus_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.power.CircuitStatus.h:135:6:_uavcan_equipment_power_CircuitStatus_decode	40	static
+../dronecan/src/uavcan.equipment.power.CircuitStatus.c:12:10:uavcan_equipment_power_CircuitStatus_encode	24	static
+../dronecan/src/uavcan.equipment.power.CircuitStatus.c:32:6:uavcan_equipment_power_CircuitStatus_decode	24	static

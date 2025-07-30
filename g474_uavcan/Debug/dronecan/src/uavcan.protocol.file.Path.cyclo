@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.file.Path.h:49:6:_uavcan_protocol_file_Path_encode	3
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.file.Path.h:96:6:_uavcan_protocol_file_Path_decode	4
+../dronecan/src/uavcan.protocol.file.Path.c:12:10:uavcan_protocol_file_Path_encode	1
+../dronecan/src/uavcan.protocol.file.Path.c:32:6:uavcan_protocol_file_Path_decode	2

@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.GetNodeInfo_req.h:51:6:_uavcan_protocol_GetNodeInfoRequest_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.GetNodeInfo_req.h:67:6:_uavcan_protocol_GetNodeInfoRequest_decode	1
+../dronecan/src/uavcan.protocol.GetNodeInfo_req.c:14:10:uavcan_protocol_GetNodeInfoRequest_encode	1
+../dronecan/src/uavcan.protocol.GetNodeInfo_req.c:34:6:uavcan_protocol_GetNodeInfoRequest_decode	2

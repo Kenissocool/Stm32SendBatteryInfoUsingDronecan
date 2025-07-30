@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.remoteid.System.h:137:6:_dronecan_remoteid_System_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.remoteid.System.h:286:6:_dronecan_remoteid_System_decode	40	static
+../dronecan/src/dronecan.remoteid.System.c:12:10:dronecan_remoteid_System_encode	24	static
+../dronecan/src/dronecan.remoteid.System.c:32:6:dronecan_remoteid_System_decode	24	static

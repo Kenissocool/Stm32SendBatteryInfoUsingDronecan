@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.param.ExecuteOpcode_req.h:65:6:_uavcan_protocol_param_ExecuteOpcodeRequest_encode	24	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.param.ExecuteOpcode_req.h:99:6:_uavcan_protocol_param_ExecuteOpcodeRequest_decode	32	static
+../dronecan/src/uavcan.protocol.param.ExecuteOpcode_req.c:14:10:uavcan_protocol_param_ExecuteOpcodeRequest_encode	24	static
+../dronecan/src/uavcan.protocol.param.ExecuteOpcode_req.c:34:6:uavcan_protocol_param_ExecuteOpcodeRequest_decode	24	static

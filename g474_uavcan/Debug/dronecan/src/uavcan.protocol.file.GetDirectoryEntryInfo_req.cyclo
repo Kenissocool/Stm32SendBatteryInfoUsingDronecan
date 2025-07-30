@@ -1,0 +1,6 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.file.Path.h:49:6:_uavcan_protocol_file_Path_encode	3
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.file.Path.h:96:6:_uavcan_protocol_file_Path_decode	4
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.file.GetDirectoryEntryInfo_req.h:61:6:_uavcan_protocol_file_GetDirectoryEntryInfoRequest_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.file.GetDirectoryEntryInfo_req.h:92:6:_uavcan_protocol_file_GetDirectoryEntryInfoRequest_decode	2
+../dronecan/src/uavcan.protocol.file.GetDirectoryEntryInfo_req.c:14:10:uavcan_protocol_file_GetDirectoryEntryInfoRequest_encode	1
+../dronecan/src/uavcan.protocol.file.GetDirectoryEntryInfo_req.c:34:6:uavcan_protocol_file_GetDirectoryEntryInfoRequest_decode	2

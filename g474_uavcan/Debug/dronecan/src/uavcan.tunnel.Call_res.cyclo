@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.Call_res.h:55:6:_uavcan_tunnel_CallResponse_encode	3
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.Call_res.h:102:6:_uavcan_tunnel_CallResponse_decode	4
+../dronecan/src/uavcan.tunnel.Call_res.c:12:10:uavcan_tunnel_CallResponse_encode	1
+../dronecan/src/uavcan.tunnel.Call_res.c:32:6:uavcan_tunnel_CallResponse_decode	2

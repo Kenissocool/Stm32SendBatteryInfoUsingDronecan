@@ -1,0 +1,8 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.CoarseOrientation.h:53:6:_uavcan_CoarseOrientation_encode	2
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.CoarseOrientation.h:95:6:_uavcan_CoarseOrientation_decode	2
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.Timestamp.h:49:6:_uavcan_Timestamp_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.Timestamp.h:74:6:_uavcan_Timestamp_decode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.range_sensor.Measurement.h:101:6:_uavcan_equipment_range_sensor_Measurement_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.range_sensor.Measurement.h:180:6:_uavcan_equipment_range_sensor_Measurement_decode	3
+../dronecan/src/uavcan.equipment.range_sensor.Measurement.c:12:10:uavcan_equipment_range_sensor_Measurement_encode	1
+../dronecan/src/uavcan.equipment.range_sensor.Measurement.c:32:6:uavcan_equipment_range_sensor_Measurement_decode	2

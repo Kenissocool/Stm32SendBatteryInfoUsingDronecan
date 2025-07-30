@@ -1,0 +1,6 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.CANIfaceStats.h:53:6:_uavcan_protocol_CANIfaceStats_encode	24	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.CANIfaceStats.h:96:6:_uavcan_protocol_CANIfaceStats_decode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.GetTransportStats_res.h:69:6:_uavcan_protocol_GetTransportStatsResponse_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.GetTransportStats_res.h:140:6:_uavcan_protocol_GetTransportStatsResponse_decode	48	static
+../dronecan/src/uavcan.protocol.GetTransportStats_res.c:12:10:uavcan_protocol_GetTransportStatsResponse_encode	24	static
+../dronecan/src/uavcan.protocol.GetTransportStats_res.c:32:6:uavcan_protocol_GetTransportStatsResponse_decode	24	static

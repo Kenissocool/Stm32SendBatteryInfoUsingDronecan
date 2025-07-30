@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.sensors.magnetometer.MagneticFieldStrengthHiRes.h:59:6:_dronecan_sensors_magnetometer_MagneticFieldStrengthHiRes_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.sensors.magnetometer.MagneticFieldStrengthHiRes.h:101:6:_dronecan_sensors_magnetometer_MagneticFieldStrengthHiRes_decode	40	static
+../dronecan/src/dronecan.sensors.magnetometer.MagneticFieldStrengthHiRes.c:12:10:dronecan_sensors_magnetometer_MagneticFieldStrengthHiRes_encode	24	static
+../dronecan/src/dronecan.sensors.magnetometer.MagneticFieldStrengthHiRes.c:32:6:dronecan_sensors_magnetometer_MagneticFieldStrengthHiRes_decode	24	static

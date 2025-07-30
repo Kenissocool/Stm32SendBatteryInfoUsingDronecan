@@ -1,0 +1,15 @@
+../Core/Src/main.c:83:6:HAL_FDCAN_RxFifo0Callback	1
+../Core/Src/main.c:110:15:my_strnlen	3
+../Core/Src/main.c:116:13:handle_GetNodeInfo	2
+../Core/Src/main.c:153:6:should_accept	3
+../Core/Src/main.c:163:6:onTransferReceived	3
+../Core/Src/main.c:177:13:send_BatteryInfo	1
+../Core/Src/main.c:259:13:send_NodeStatus	1
+../Core/Src/main.c:287:6:HAL_TIM_PeriodElapsedCallback	3
+../Core/Src/main.c:306:5:main	5
+../Core/Src/main.c:461:6:SystemClock_Config	3
+../Core/Src/main.c:508:13:MX_FDCAN1_Init	2
+../Core/Src/main.c:551:13:MX_TIM2_Init	4
+../Core/Src/main.c:596:13:MX_TIM3_Init	4
+../Core/Src/main.c:641:13:MX_GPIO_Init	1
+../Core/Src/main.c:663:6:Error_Handler	1

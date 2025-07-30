@@ -1,0 +1,6 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.camera_gimbal.Mode.h:55:6:_uavcan_equipment_camera_gimbal_Mode_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.camera_gimbal.Mode.h:80:6:_uavcan_equipment_camera_gimbal_Mode_decode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.camera_gimbal.AngularCommand.h:65:6:_uavcan_equipment_camera_gimbal_AngularCommand_encode	2
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.camera_gimbal.AngularCommand.h:116:6:_uavcan_equipment_camera_gimbal_AngularCommand_decode	3
+../dronecan/src/uavcan.equipment.camera_gimbal.AngularCommand.c:12:10:uavcan_equipment_camera_gimbal_AngularCommand_encode	1
+../dronecan/src/uavcan.equipment.camera_gimbal.AngularCommand.c:32:6:uavcan_equipment_camera_gimbal_AngularCommand_decode	2

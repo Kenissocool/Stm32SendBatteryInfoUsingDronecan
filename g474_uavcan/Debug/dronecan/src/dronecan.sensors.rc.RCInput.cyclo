@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.sensors.rc.RCInput.h:73:6:_dronecan_sensors_rc_RCInput_encode	3
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/dronecan.sensors.rc.RCInput.h:147:6:_dronecan_sensors_rc_RCInput_decode	4
+../dronecan/src/dronecan.sensors.rc.RCInput.c:12:10:dronecan_sensors_rc_RCInput_encode	1
+../dronecan/src/dronecan.sensors.rc.RCInput.c:32:6:dronecan_sensors_rc_RCInput_decode	2

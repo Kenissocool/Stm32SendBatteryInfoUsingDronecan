@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.ahrs.MagneticFieldStrength2.h:63:6:_uavcan_equipment_ahrs_MagneticFieldStrength2_encode	4
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.ahrs.MagneticFieldStrength2.h:142:6:_uavcan_equipment_ahrs_MagneticFieldStrength2_decode	5
+../dronecan/src/uavcan.equipment.ahrs.MagneticFieldStrength2.c:12:10:uavcan_equipment_ahrs_MagneticFieldStrength2_encode	1
+../dronecan/src/uavcan.equipment.ahrs.MagneticFieldStrength2.c:32:6:uavcan_equipment_ahrs_MagneticFieldStrength2_decode	2

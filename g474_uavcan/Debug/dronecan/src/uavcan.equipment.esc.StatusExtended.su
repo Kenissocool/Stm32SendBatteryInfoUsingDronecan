@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.esc.StatusExtended.h:75:6:_uavcan_equipment_esc_StatusExtended_encode	24	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.esc.StatusExtended.h:145:6:_uavcan_equipment_esc_StatusExtended_decode	32	static
+../dronecan/src/uavcan.equipment.esc.StatusExtended.c:12:10:uavcan_equipment_esc_StatusExtended_encode	24	static
+../dronecan/src/uavcan.equipment.esc.StatusExtended.c:32:6:uavcan_equipment_esc_StatusExtended_decode	24	static

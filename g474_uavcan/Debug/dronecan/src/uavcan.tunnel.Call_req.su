@@ -1,0 +1,6 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.Protocol.h:55:6:_uavcan_tunnel_Protocol_encode	24	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.Protocol.h:80:6:_uavcan_tunnel_Protocol_decode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.Call_req.h:65:6:_uavcan_tunnel_CallRequest_encode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.Call_req.h:127:6:_uavcan_tunnel_CallRequest_decode	40	static
+../dronecan/src/uavcan.tunnel.Call_req.c:14:10:uavcan_tunnel_CallRequest_encode	24	static
+../dronecan/src/uavcan.tunnel.Call_req.c:34:6:uavcan_tunnel_CallRequest_decode	24	static

@@ -1,0 +1,6 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.indication.RGB565.h:53:6:_uavcan_equipment_indication_RGB565_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.indication.RGB565.h:96:6:_uavcan_equipment_indication_RGB565_decode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.indication.SingleLightCommand.h:73:6:_uavcan_equipment_indication_SingleLightCommand_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.indication.SingleLightCommand.h:104:6:_uavcan_equipment_indication_SingleLightCommand_decode	2
+../dronecan/src/uavcan.equipment.indication.SingleLightCommand.c:12:10:uavcan_equipment_indication_SingleLightCommand_encode	1
+../dronecan/src/uavcan.equipment.indication.SingleLightCommand.c:32:6:uavcan_equipment_indication_SingleLightCommand_decode	2

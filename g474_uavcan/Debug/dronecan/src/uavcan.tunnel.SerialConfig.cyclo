@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.SerialConfig.h:63:6:_uavcan_tunnel_SerialConfig_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.tunnel.SerialConfig.h:106:6:_uavcan_tunnel_SerialConfig_decode	1
+../dronecan/src/uavcan.tunnel.SerialConfig.c:12:10:uavcan_tunnel_SerialConfig_encode	1
+../dronecan/src/uavcan.tunnel.SerialConfig.c:32:6:uavcan_tunnel_SerialConfig_decode	2

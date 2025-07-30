@@ -1,0 +1,6 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.debug.LogLevel.h:55:6:_uavcan_protocol_debug_LogLevel_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.debug.LogLevel.h:80:6:_uavcan_protocol_debug_LogLevel_decode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.debug.LogMessage.h:65:6:_uavcan_protocol_debug_LogMessage_encode	4
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.debug.LogMessage.h:143:6:_uavcan_protocol_debug_LogMessage_decode	7
+../dronecan/src/uavcan.protocol.debug.LogMessage.c:12:10:uavcan_protocol_debug_LogMessage_encode	1
+../dronecan/src/uavcan.protocol.debug.LogMessage.c:32:6:uavcan_protocol_debug_LogMessage_decode	2

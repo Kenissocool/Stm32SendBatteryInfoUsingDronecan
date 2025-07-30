@@ -1,0 +1,8 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.Timestamp.h:49:6:_uavcan_Timestamp_encode	24	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.Timestamp.h:74:6:_uavcan_Timestamp_decode	32	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.gnss.ECEFPositionVelocity.h:55:6:_uavcan_equipment_gnss_ECEFPositionVelocity_encode	40	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.gnss.ECEFPositionVelocity.h:145:6:_uavcan_equipment_gnss_ECEFPositionVelocity_decode	48	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.gnss.Fix2.h:157:6:_uavcan_equipment_gnss_Fix2_encode	48	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.equipment.gnss.Fix2.h:366:6:_uavcan_equipment_gnss_Fix2_decode	56	static
+../dronecan/src/uavcan.equipment.gnss.Fix2.c:12:10:uavcan_equipment_gnss_Fix2_encode	24	static
+../dronecan/src/uavcan.equipment.gnss.Fix2.c:32:6:uavcan_equipment_gnss_Fix2_decode	24	static

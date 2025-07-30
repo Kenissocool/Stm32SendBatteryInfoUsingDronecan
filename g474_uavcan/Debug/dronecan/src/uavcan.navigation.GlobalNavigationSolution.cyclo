@@ -1,0 +1,6 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.Timestamp.h:49:6:_uavcan_Timestamp_encode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.Timestamp.h:74:6:_uavcan_Timestamp_decode	1
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.navigation.GlobalNavigationSolution.h:109:6:_uavcan_navigation_GlobalNavigationSolution_encode	8
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.navigation.GlobalNavigationSolution.h:330:6:_uavcan_navigation_GlobalNavigationSolution_decode	11
+../dronecan/src/uavcan.navigation.GlobalNavigationSolution.c:12:10:uavcan_navigation_GlobalNavigationSolution_encode	1
+../dronecan/src/uavcan.navigation.GlobalNavigationSolution.c:32:6:uavcan_navigation_GlobalNavigationSolution_decode	2

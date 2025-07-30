@@ -1,0 +1,4 @@
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.HardwareVersion.h:57:6:_uavcan_protocol_HardwareVersion_encode	40	static
+/home/terapat/STM32CubeIDE/workspace_1.19.0/g474_uavcan/dronecan/include/uavcan.protocol.HardwareVersion.h:139:6:_uavcan_protocol_HardwareVersion_decode	40	static
+../dronecan/src/uavcan.protocol.HardwareVersion.c:12:10:uavcan_protocol_HardwareVersion_encode	24	static
+../dronecan/src/uavcan.protocol.HardwareVersion.c:32:6:uavcan_protocol_HardwareVersion_decode	24	static
