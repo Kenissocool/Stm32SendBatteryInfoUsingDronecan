@@ -1,4 +1,4 @@
-# Stnm32 Sending Battery Data using Dronecan
+# Stm32 Sending Battery Data using Dronecan
 
 A minimal working implementation of the [DroneCAN](https://dronecan.github.io/) protocol using **libcanard** and the [Arduino-DroneCAN](https://github.com/BeyondRobotix/Arduino-DroneCAN) library for STM32 or other microcontrollers.
 
