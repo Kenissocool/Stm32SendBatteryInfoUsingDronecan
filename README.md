@@ -82,39 +82,61 @@ In your build system (Makefile or STM32CubeIDE):
 
 ## 🛠️ Usage Example
 
-### 1. Initialize Canard Instance
+### 1. Setting node id
 
 ```c
-CanardInstance instance = canardInit(&mem_allocate, &mem_free);
-instance.mtu_bytes = 64;
-instance.node_id = 42; // Set your node ID
+canardSetLocalNodeID(&canard, 11);
 ```
 
-### 2. Send a Message (e.g. Heartbeat)
+### 2. Naming Node
 
 ```c
-uint8_t buffer[CANARD_MTU_MAX];
-size_t payload_size = uavcan_protocol_NodeStatus_encode(&status_msg, buffer);
-
-CanardTransfer xfer = {
-    .priority = CanardPriorityNominal,
-    .transfer_kind = CanardTransferKindMessage,
-    .port_id = UAVCAN_PROTOCOL_NODESTATUS_ID,
-    .remote_node_id = CANARD_BROADCAST_NODE_ID,
-    .transfer_id = transfer_id++,
-    .payload_size = payload_size,
-    .payload = buffer
-};
-
-canardTxPush(&instance, &xfer);
+const char *name = "kuybat";
 ```
 
-### 3. Receive a Message
+
+### 3. Sending battery data
 
 ```c
-const CanardFrame* rx_frame = canardRxAccept(&instance, &frame, &metadata);
-if (rx_frame) {
-    // Check message type, port ID, etc.
+static void send_BatteryInfo(void)
+{
+    struct uavcan_equipment_power_BatteryInfo batt_info;
+    memset(&batt_info, 0, sizeof(batt_info));
+
+
+    batt_info.temperature = 383.5f;      // d? K
+    batt_info.voltage = 25.2f;          // V
+    batt_info.current = 2.1f;          // A
+    batt_info.average_power_10sec = 200.0f; // W
+    batt_info.remaining_capacity_wh = 40.0f;
+    batt_info.full_charge_capacity_wh = 50.0f;
+    batt_info.hours_to_full_charge = 0.5f;
+    batt_info.status_flags = UAVCAN_EQUIPMENT_POWER_BATTERYINFO_STATUS_FLAG_IN_USE;
+    batt_info.state_of_health_pct = 98;
+    batt_info.state_of_charge_pct = 80;
+    batt_info.state_of_charge_pct_stdev = 1;
+    batt_info.battery_id = 1;
+    batt_info.model_instance_id = 0x12345678;
+
+    batt_info.model_name.len = 8;
+    memcpy(batt_info.model_name.data, "LiPo4s", 8);
+
+
+    uint8_t buffer[UAVCAN_EQUIPMENT_POWER_BATTERYINFO_MAX_SIZE];
+    uint32_t len = uavcan_equipment_power_BatteryInfo_encode(&batt_info, buffer
+    #if CANARD_ENABLE_TAO_OPTION
+        , true
+    #endif
+    );
+
+    static uint8_t transfer_id = 0;
+    canardBroadcast(&canard,
+                    UAVCAN_EQUIPMENT_POWER_BATTERYINFO_SIGNATURE,
+                    UAVCAN_EQUIPMENT_POWER_BATTERYINFO_ID,
+                    &transfer_id,
+                    CANARD_TRANSFER_PRIORITY_LOW,
+                    buffer,
+                    len);
 }
 ```
 
